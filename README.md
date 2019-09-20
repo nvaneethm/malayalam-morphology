@@ -1,5 +1,5 @@
-#MALAYALAM MORPHOLOGICAL ANALYZER
-#SANDHI SPLITTER
+# MALAYALAM MORPHOLOGICAL ANALYZER
+## SANDHI SPLITTER
 
 Trie consists of nodes and edges which grows as different word pattern arrives. Each node in ourtrie structure stores
 i. Character, for storing the letter: Char
